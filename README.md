@@ -34,7 +34,12 @@ Brief description of project.
 
 ## Tecnologies :rocket:
 
-- <a href="#">List here</a>
+- <a href="#">
+- ⚛ **React** — A library to build user interfaces
+- 💅 **CSS** — Styled-components
+- 💖 **Lint** — ESlint/Prettier/Editor Config
+- 🗺 **React-Animated-CSS** — Animations in React made easy
+</a>
 
 ## How to Contribute 🤔
 
@@ -49,4 +54,4 @@ Brief description of project.
 
 ---
 
-##### Made by 'Your name'(nickname) :wave:
+##### Made by Victor Gutierrez :wave:
