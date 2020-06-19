@@ -18,7 +18,10 @@
 <p align="center">
 <image width="500" height="300" src="https://user-images.githubusercontent.com/62355596/85173530-6f691f00-b241-11ea-91ca-030e6ecad5a0.png" />
     <image width="700" height="500" src="https://user-images.githubusercontent.com/62355596/85173609-a0495400-b241-11ea-83a3-ded51c12ff31.png" />
-</p>
+    <image  src="https://user-images.githubusercontent.com/62355596/85174053-8
+eb47c00-b242-11ea-9859-66bda09633cb.gif" />
+     <image  src="https://user-images.githubusercontent.com/62355596/85174066-95db8a00-b242-11ea-80b0-6cfff1ee1859.gif" />
+        </p>
 
 ## About :memo:
 
