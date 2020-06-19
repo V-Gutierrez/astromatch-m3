@@ -1,7 +1,7 @@
 <h1>AstroMatch</h1>
 
 <p align="center">
-<image src=".github/logo.jpg"/></br>
+<image src="https://user-images.githubusercontent.com/62355596/85173424-37fa7280-b241-11ea-84ef-fe182dee0872.png"/></br>
 <label>Logo - Created by Victor Gutierrez</label>
 </p>
 
