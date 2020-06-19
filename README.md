@@ -1,4 +1,4 @@
-<h1>Project Title</h1>
+<h1>AstroMatch</h1>
 
 <p align="center">
 <image src=".github/logo.jpg"/></br>
@@ -24,17 +24,13 @@ Click [here](https://shields.io/) and select shields for you project
 <image src=".github/image-example.png" />
 </p>
 
----
-
-Read portuguese version [HERE](README-Portuguese.md)
-
 ## About :memo:
 
-Brief description of project.
+An app that mocks Tinder mechanicals using Labenu API
 
 ## Tecnologies :rocket:
 
-- <a href="#">
+<a href="#">
 - ⚛ **React** — A library to build user interfaces
 - 💅 **CSS** — Styled-components
 - 💖 **Lint** — ESlint/Prettier/Editor Config
@@ -50,7 +46,7 @@ Brief description of project.
 
 ## License :scroll:
 
-> This project is under the MIT license. See the archive [LICENSE](LICENSE) for more details.
+> This project is under the MIT license. 
 
 ---
 
