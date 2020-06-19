@@ -2,7 +2,7 @@
 
 <p align="center">
 <image src=".github/logo.jpg"/></br>
-<label>Logo</label>
+<label>Logo - Created by Victor Gutierrez</label>
 </p>
 
 <p align="center">
@@ -12,11 +12,6 @@
 <a href="#license-scroll">License</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
 </p>
 
-<p align="center">
-<image src="https://img.shields.io/badge/Custom-shields%20here-red"/>
-</p>
-
-Click [here](https://shields.io/) and select shields for you project
 
 ## Apresentation of Project :sparkles:
 
