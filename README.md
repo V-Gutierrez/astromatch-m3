@@ -27,7 +27,7 @@
 
 An app that mocks Tinder mechanicals using Labenu API
 
-## Tecnologies :rocket:
+## Technologies :rocket:
 
 - <a href="https://pt-br.reactjs.org/"> ⚛ **React** — A library to build user interfaces</a>
 -  <a href="https://styled-components.com/">💅 **CSS** — Styled-components</a>
