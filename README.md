@@ -30,12 +30,11 @@ An app that mocks Tinder mechanicals using Labenu API
 
 ## Tecnologies :rocket:
 
-<a href="#">
-- ⚛ **React** — A library to build user interfaces
-- 💅 **CSS** — Styled-components
-- 💖 **Lint** — ESlint/Prettier/Editor Config
-- 🗺 **React-Animated-CSS** — Animations in React made easy
-</a>
+- <a href="https://pt-br.reactjs.org/"> ⚛ **React** — A library to build user interfaces</a>
+-  <a href="https://styled-components.com/">💅 **CSS** — Styled-components</a>
+- <a href="https://eslint.org/">💖 **Lint** — ESlint/Prettier/Editor Config</a>
+- <a href="https://github.com/digital-flowers/react-animated-css">🗺 **React-Animated-CSS** — Animations in React made easy</a>
+
 
 ## How to Contribute 🤔
 
