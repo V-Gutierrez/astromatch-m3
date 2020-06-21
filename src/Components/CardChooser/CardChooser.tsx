@@ -40,6 +40,10 @@ export default function CardChooser() {
         setMileage(() => Math.ceil(Math.random() * 10));
     }, [profile]);
 
+    useEffect(() => {
+        getNewPerson();
+    }, []);
+
     const getNewPerson = useCallback(async () => {
         setSwipeDirection('left');
         setLoading(true);
@@ -61,10 +65,6 @@ export default function CardChooser() {
             console.error(error);
         }
     }, [setNewNumberForUpdateListener]);
-
-    useEffect(() => {
-        getNewPerson();
-    }, []);
 
     const matchPerson = async (id: string) => {
         setSwipeDirection('right');
