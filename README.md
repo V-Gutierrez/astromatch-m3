@@ -13,10 +13,6 @@
 <a href="#license-scroll">License</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
 </p>
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 0549c2b86645fe37bf513d40c75084eae4a7f432
 ## Apresentation of Project :sparkles:
 
 <p align="center">
@@ -29,7 +25,6 @@
 ## About :memo:
 
 An app that mocks Tinder mechanicals using Labenu API
-<<<<<<< HEAD
 
 ## Technologies :rocket:
 
@@ -37,16 +32,6 @@ An app that mocks Tinder mechanicals using Labenu API
 -   <a href="https://styled-components.com/">💅 **CSS** — Styled-components</a>
 -   <a href="https://eslint.org/">💖 **Lint** — ESlint/Prettier/Editor Config</a>
 -   <a href="https://github.com/digital-flowers/react-animated-css">🗺 **React-Animated-CSS** — Animations in React made easy</a>
-=======
-
-## Technologies :rocket:
-
-- <a href="https://pt-br.reactjs.org/"> ⚛ **React** — A library to build user interfaces</a>
--  <a href="https://styled-components.com/">💅 **CSS** — Styled-components</a>
-- <a href="https://eslint.org/">💖 **Lint** — ESlint/Prettier/Editor Config</a>
-- <a href="https://github.com/digital-flowers/react-animated-css">🗺 **React-Animated-CSS** — Animations in React made easy</a>
-
->>>>>>> 0549c2b86645fe37bf513d40c75084eae4a7f432
 
 ## How to Contribute 🤔
 
@@ -57,11 +42,7 @@ An app that mocks Tinder mechanicals using Labenu API
 
 ## License :scroll:
 
-<<<<<<< HEAD
 > This project is under the MIT license.
-=======
-> This project is under the MIT license. 
->>>>>>> 0549c2b86645fe37bf513d40c75084eae4a7f432
 
 ---
 
