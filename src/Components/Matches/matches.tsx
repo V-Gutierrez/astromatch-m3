@@ -14,7 +14,7 @@ import { Animated } from 'react-animated-css';
 import { GiChewedHeart } from 'react-icons/gi';
 import { Profile } from '../../Types/interfaces';
 import astromatch from './../../Services/astromatch_api';
-import { profileChangeListener } from '../../Global/context';
+import { profileChangeListener } from '../../Global/profileChangeListener_Context';
 
 export default function Matches() {
     const [matches, setMatches] = useState<Profile[]>([]);

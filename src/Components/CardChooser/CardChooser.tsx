@@ -18,7 +18,7 @@ import InfinityLoading from '../../Assets/images/loadinginfinity.svg';
 import Match from '../../Assets/images/itsamatch.gif';
 import UIfx from 'uifx';
 import astromatch from './../../Services/astromatch_api';
-import { profileChangeListener } from '../../Global/context';
+import { profileChangeListener } from '../../Global/profileChangeListener_Context';
 
 export default function CardChooser() {
     const [profile, setProfile] = useState<Profile>({
